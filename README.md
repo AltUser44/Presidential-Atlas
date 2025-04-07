@@ -4,10 +4,14 @@ An interactive web application exploring American presidential history and state
 
 ## Features
 
+![Screenshot 2025-04-06 233304](https://github.com/user-attachments/assets/743e73f9-f8ac-47dc-a270-05ede582a531)
+
 - **Interactive U.S. Map**
   - Color-coded visualization of state political affiliations
   - Clickable states with historical facts and party information
   - Toast notifications displaying state details on interaction
+
+![Screenshot 2025-04-06 233344](https://github.com/user-attachments/assets/0dee09e2-aec5-4871-a20b-b3413f50a998)
 
 - **Presidential Showcase**
   - Comprehensive database of all 46 U.S. presidents
@@ -15,6 +19,8 @@ An interactive web application exploring American presidential history and state
   - High-quality presidential portraits
   - Information about election victories and opponents
   - Key achievements and historical facts
+
+![Screenshot 2025-04-06 233407](https://github.com/user-attachments/assets/01e929fb-5510-4b1d-8ab9-db5edb9cbc4b)
 
 - **Election History**
   - Chronological timeline of presidential inaugurations
