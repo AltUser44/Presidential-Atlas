@@ -26,7 +26,7 @@ export default function ElectionsPage() {
             .sort((a, b) => Number(b[0]) - Number(a[0]))
             .map(([year, presidents]) => (
               <div key={year} className="group rounded-lg border border-[#2d2d44] bg-[#1a1a2e] p-6 transition-all hover:border-[#e94560]/50">
-                <h2 className="mb-4 text-2xl font-bold text-[#e94560]">Election of {year}</h2>
+                <h2 className="mb-4 text-2xl font-bold text-[#e94560]">Inauguration of {year}</h2>
                 {presidents.map((president) => (
                   <div key={president.id} className="mb-4 border-b border-[#2d2d44] pb-4 last:border-0 last:pb-0">
                     <h3 className="text-xl font-semibold text-white">{president.name}</h3>

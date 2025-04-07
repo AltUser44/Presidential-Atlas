@@ -508,7 +508,7 @@ export const presidents: President[] = [
   {
     id: 45,
     name: "Donald Trump",
-    years: "2017-2021",
+    years: "2017-2021, 2025-present",
     party: "Republican",
     image: "/presidents/Donald Trump.jpg",
     facts: "First president with no prior political or military experience.",
@@ -519,7 +519,7 @@ export const presidents: President[] = [
   {
     id: 46,
     name: "Joe Biden",
-    years: "2021-Present",
+    years: "2021-2025",
     party: "Democratic",
     image: "/presidents/Joseph R. Biden Jr..jpg",
     facts: "Oldest person to assume the presidency and previously served as Vice President under Barack Obama.",
